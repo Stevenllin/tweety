@@ -1,0 +1,10 @@
+
+[37;41m                                             [39;49m
+[37;41m  Command "vendor:publish-" is not defined.  [39;49m
+[37;41m                                             [39;49m
+[37;41m  Did you mean one of these?                 [39;49m
+[37;41m      sail:publish                           [39;49m
+[37;41m      stub:publish                           [39;49m
+[37;41m      vendor:publish                         [39;49m
+[37;41m                                             [39;49m
+
